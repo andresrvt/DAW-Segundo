@@ -1,8 +1,6 @@
 # DAW-Segundo
-=
 
 ## Descripción y objetivos de este proyecto.
----
 
 Este proyecto es el repositorio remoto donde iré guardando las distintas prácticas entregables de clase. Las asignaturas impartidas son: 
 
