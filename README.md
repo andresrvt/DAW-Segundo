@@ -1,5 +1,5 @@
 # DAW-Segundo
-===
+==
 
 ## Descripción y objetivos de este proyecto.
 ---
