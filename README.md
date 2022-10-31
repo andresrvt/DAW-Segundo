@@ -2,7 +2,7 @@
 
 ## Descripción y objetivos de este proyecto.
 
-Este proyecto es el repositorio remoto donde iré guardando las distintas prácticas entregables de clase. Las asignaturas impartidas son: 
+Este proyecto es  donde iré guardando las distintas prácticas entregables de clase. Conforme vayan aumentando los trabajos, clasificaré el proyecto en las distintas asignaturas del curso. Las asignaturas impartidas son: 
 
 + Desarrollo web entorno cliente
 + Desarrollo web entorno servidor
